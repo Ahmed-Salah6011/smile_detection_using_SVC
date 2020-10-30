@@ -18,7 +18,7 @@ The data is loaded using cv2.imread() then turned into gray scale images then sa
 
 
 ## Second the model
-i use the SVC model supported by sklearn with kernel 'rbf'
+i used the SVC model supported by sklearn with kernel 'rbf'
 the model is saved into smile_d.sav after training using joblib
 You can find the pretrained model in smile_d.zip
 
